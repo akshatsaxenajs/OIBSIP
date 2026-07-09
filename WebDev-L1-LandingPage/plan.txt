@@ -1,0 +1,33 @@
+PROJECT NAME
+NovaBook Landing Page
+
+Brand Name:
+NovaBook
+
+Tagline:
+Power Meets Performance
+
+Target Audience:
+- Students
+- Professionals
+- Gamers
+- Content Creators
+
+Color Palette:
+Primary Blue: #2563EB
+Dark: #111827
+White: #FFFFFF
+Light Gray: #F8FAFC
+Accent Blue: #60A5FA
+
+Website Sections:
+1. Navigation Bar
+2. Hero Section
+3. Features
+4. Product Showcase
+5. Why Choose NovaBook
+6. Testimonials
+7. Special Offer
+8. FAQ
+9. Contact
+10. Footer
