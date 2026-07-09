@@ -1,0 +1,89 @@
+/* Style the whole page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    margin: 0;
+}
+
+/* Main container */
+.container {
+    background-color: white;
+    padding: 30px;
+    width: 350px;
+
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+/* Heading */
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+/* Labels */
+label {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+/* Input and dropdown */
+input,
+select {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+/* Convert Button */
+button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 20px;
+    background-color: #ff1900;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Hover Effect */
+button:hover {
+    background-color: #00a1b3;
+}
+/* Result Section */
+#result {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}
+
+#result h3 {
+    margin-top: 0;
+    text-align: center;
+}
+
+#result p {
+    text-align: left;
+    margin: 8px 0;
+}
+.error {
+    color: red;
+    font-weight: bold;
+    margin-top: 10px;
+}
+#result {
+    display: none;
+}
